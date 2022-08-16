@@ -1,0 +1,291 @@
+stationid,lat,lon,name,state,elevation,distance,rating
+90031003,41.78444,-72.62945,"Anna E. Norris School, 20, Remington Road, East Hartford, Hartford County, Connecticut, 06108, United States",Connecticut,13.56,56,0.9204116638078902
+90092123,41.55028,-73.04417000000001,"153, Meadow Street, Cass Gilbert National Register District, Waterbury, New Haven County, Connecticut, 06708, United States",Connecticut,80.92,29,0.918696397941681
+90110124,41.35333000000001,-72.07889,"Fort Griswold Battlefield State Park, Thames Street, Groton Bank Historic District, City of Groton, Groton, New London County, Connecticut, 06340, United States",Connecticut,35.94,2,0.9063464837049743
+100010002,38.984440000000006,-75.55556,"Lake Forest High School, Killens Pond Road, Lake Forest Mobile Home Est, Kent County, Delaware, 19943, United States",Delaware,13.44,17,0.9234991423670669
+100051002,38.64417,-75.61305,"320, 3rd Street, Hurley Heights, Seaford, Sussex County, Delaware, 19973, United States",Delaware,8.49,30,0.9159519725557461
+120050006,30.12889,-85.73805,"3476, State Park Circle, Bay County, Florida, 32408, United States",Florida,3.62,0,0.909433962264151
+120570112,27.77944,-82.41972000000001,"6503, Dolphin Cove Drive, Hillsborough County, Florida, 33572, United States",Florida,1.55,0,0.8922813036020583
+120573002,27.965830000000004,-82.23055000000001,"Sydney Road, Sydney, Hillsborough County, Florida, 33567, United States",Florida,29.67,18,0.8686106346483705
+121130015,30.394170000000003,-87.00806,"Woodlawn Beach Middle School, 1500, Woodlawn Way, Gulf Breeze, Santa Rosa County, Florida, 32563, United States",Florida,8.66,0,0.913893653516295
+121152002,27.089170000000003,-82.36250000000001,"Jackson Road, Venetian Falls, Sarasota County, Florida, 34392, United States",Florida,3.89,8,0.9180102915951973
+130890002,33.690560000000005,-84.27306,"Georgia State University Decatur, 3251, Panthersville Road, Decatur, DeKalb County, Georgia, 30034, United States",Georgia,242.42,347,0.8974271012006861
+131210055,33.720560000000006,-84.35778,"946, Sloan Circle Southeast, Atlanta, Fulton County, Georgia, 30316, United States",Georgia,294.06,356,0.9241852487135506
+131510002,33.43444,-84.16167,"198, Work Camp Road, McDonough, Henry County, Georgia, 30253, United States",Georgia,256.05,323,0.8960548885077186
+132150008,32.521390000000004,-84.94334,"Columbus Metropolitan Airport, Courtyard Way, Peachtree Mall, Columbus, Muscogee County, Georgia, 31909, United States",Georgia,133.7,252,0.8885077186963979
+160010010,43.60056,-116.34778,"East Promenade Street, Meridian, Ada County, Idaho, 83713, United States",Idaho,811.96,623,0.911835334476844
+160050015,42.87667,-112.46028,"Pro Rentals & Sales, 1615, North 2nd Avenue, Pocatello, Bannock County, Idaho, 83201, United States",Idaho,1359.28,921,0.9149228130360205
+160050020,42.58972000000001,-112.45889,"Power County, Idaho, United States",Idaho,1708.82,941,0.7900514579759863
+160150001,43.82278,-115.83833,"229, Miners Lane, Idaho City, Boise County, Idaho, 83631, United States",Idaho,1183.6,641,0.9121783876500857
+160170003,48.29167,-116.55639,"2056, North Boyer Avenue, Sandpoint, Bonner County, Idaho, 83864, United States",Idaho,645.57,419,0.9063464837049743
+160490002,45.93111,-116.115,"301, East North 7th Street, Grangeville, Idaho County, Idaho, 83530, United States",Idaho,1024.72,498,0.9169811320754717
+160530003,42.68000000000001,-114.2525,"Minidoka National Historic Site, South 1450 East, Jerome County, Idaho, United States",Idaho,1204.99,813,0.9169811320754717
+160570005,46.728060000000006,-116.95444,"Latah County, Idaho, 83843, United States",Idaho,797.95,408,0.9180102915951973
+160590004,45.178610000000006,-113.89278000000002,"317, North Saint Charles Street, West Salmon, Salmon, Lemhi County, Idaho, 83467, United States",Idaho,1200.54,690,0.9108061749571184
+160650002,43.80944,-111.80028,"Madison Middle School, 575, West 7th South, Rexburg, Madison County, Idaho, 83440, United States",Idaho,1480.58,908,0.9176672384219554
+160671011,42.607780000000005,-113.78667000000002,"204, West Clark Street, Paul, Minidoka County, Idaho, 83347, United States",Idaho,1264.59,851,0.9193825042881647
+160690012,46.40833000000001,-116.99139,"1197, 29th Street, Lewiston, Nez Perce County, Idaho, 83501, United States",Idaho,290.48,415,0.916295025728988
+160830007,42.565000000000005,-114.49445,"698, Addison Avenue West, Twin Falls, Twin Falls County, Idaho, 83301, United States",Idaho,1125.97,795,0.9180102915951973
+171132003,40.516670000000005,-88.9975,"Carter Harris Physical Plant, Gregory Street, Normal, McLean County, Illinois, 61790, United States",Illinois,240.39,1027,0.9176672384219554
+171150013,39.866670000000006,-88.92555,"North 22nd Street, Decatur, Macon County, Illinois, 62526, United States",Illinois,203.2,1011,0.8909090909090909
+171430037,40.69778,-89.58889,"415, Northeast Monroe Street, North Valley, Peoria, Peoria County, Illinois, 61603, United States",Illinois,157.64,1079,0.9101200686106347
+171630010,38.61167,-90.16055,"793, South 13th Street, East Saint Louis, Saint Clair County, Illinois, 62201, United States",Illinois,124.4,891,0.902229845626072
+171971011,41.22194,-88.19055,"Essex Road, Will County, Illinois, 60481, United States",Illinois,179.06,975,0.909433962264151
+180950011,40.12556,-85.65195000000001,"Scatterfield Road, Anderson, Madison County, Indiana, 46012, United States",Indiana,267.35,739,0.9217838765008577
+180970081,39.78889,-86.21445000000001,"1688, North Centennial Street, Indianapolis, Marion County, Indiana, 46222, United States",Indiana,223.12,780,0.9214408233276158
+180970087,39.787780000000005,-86.13084,"1642, East Ludlow Avenue, Spades Park, Indianapolis, Marion County, Indiana, 46201, United States",Indiana,224.29,773,0.9101200686106347
+181630021,38.01306,-87.57694000000001,"West Buena Vista Road, Evansville, Vanderburgh County, Indiana, 47710, United States",Indiana,115.45,803,0.918696397941681
+191130040,41.976670000000006,-91.68777,"1116, C Avenue Northwest, Cedar Rapids, Linn County, Iowa, 52405, United States",Iowa,223.99,1278,0.9111492281303601
+191370002,40.970000000000006,-95.04472,"Viking Lake Road, Montgomery County, Iowa, 51573, United States",Iowa,371.53,1222,0.9217838765008577
+191530030,41.603060000000006,-93.64306,"Polk County Health Department, 1907, Carpenter Avenue, Good Park, Carpenter, Des Moines, Polk County, Iowa, 50314, United States",Iowa,282.9,1281,0.9025728987993139
+201730010,37.70083,-97.31389,"1999, East 9th Street North, Wichita, Sedgwick County, Kansas, 67214, United States",Kansas,396.5,909,0.8854202401372213
+201950001,38.77028,-99.76334,"Trego County, Kansas, United States",Kansas,670.78,1095,0.9152658662092624
+210190017,38.45917,-82.63389000000001,"Newman Street, South Ashland, Ashland, Boyd County, Kentucky, 41101, United States",Kentucky,202.13,460,0.9204116638078902
+210373002,39.02167,-84.47417,"Campbell County, Kentucky, 41099, United States",Kentucky,248.07,622,0.9217838765008577
+210610501,37.13139,-86.14806,"Alfred Cook Road, Cedar Spring, Edmonson County, Kentucky, United States",Kentucky,231.9,707,0.9121783876500857
+210670012,38.065000000000005,-84.5,"608, Chestnut Oak Way, Lexington, Fayette County, Kentucky, 40508, United States",Kentucky,298.51,626,0.911835334476844
+210930006,37.706390000000006,-85.85167000000001,"Panther Lane, Indian Hills, Elizabethtown, Hardin County, Kentucky, 42701, United States",Kentucky,244.07,737,0.9231560891938251
+211110051,38.06056,-85.89584,"13517, Wilken Way, Meadow Lawn, Louisville, Jefferson County, Kentucky, 40272, United States",Kentucky,135.33,749,0.9224699828473414
+211110067,38.22833,-85.65417000000001,"3598, Sidney Park Drive, Louisville, Jefferson County, Kentucky, 40205, United States",Kentucky,161.26,725,0.9101200686106347
+211930003,37.283060000000006,-83.22028,"Mortin Boulevard, Hazard, Perry County, Kentucky, 41701, United States",Kentucky,398.29,531,0.9221269296740995
+211950002,37.482780000000005,-82.53528,"199, Loraine Street, Pikeville, Pike County, Kentucky, 41501, United States",Kentucky,206.54,467,0.9166380789022298
+220330009,30.46194,-91.17667,"Office of Public Health Laboratory, East Highway Drive, Capitol View, Baton Rouge, East Baton Rouge Parish, Louisiana, 70802, United States",Louisiana,17.07,79,0.9156089193825043
+220550007,30.22556,-92.04278,"Colonial Drive, Lafayette, Lafayette Parish, Louisiana, 70506, United States",Louisiana,10.98,44,0.9200686106346484
+220710012,29.993060000000003,-90.10139,"966, Florida Boulevard, Lakeview, New Orleans, Orleans Parish, Louisiana, 70124, United States",Louisiana,-0.65,5,0.9214408233276158
+230030014,47.35528,-68.32083,"Madawaska Safety Complex, 428, Main Street, Madawaska, Aroostook County, Maine, 04756, United States",Maine,174.96,106,0.9204116638078902
+230050029,43.66,-70.26889,"Baseball field, State Street, Parkside, Portland, Cumberland County, Maine, 04101, United States",Maine,4.0,1,0.9166380789022298
+230090103,44.376940000000005,-68.26083,"595, Eagle Lake Road, Bar Harbor, Hancock County, Maine, 04609, United States",Maine,146.13,4,0.9193825042881647
+250051004,41.683060000000005,-71.16944000000001,"1012;1014, Dwelly Street, Fall River, Bristol County, Massachusetts, 02724, United States",Massachusetts,54.34,2,0.8987993138936535
+250095005,42.77056,-71.10278000000001,"Dr. Albert B. Consentino Middle School, Washington Street, Haverhill, Essex County, Massachusetts, 01832, United States",Massachusetts,53.6,20,0.8953687821612349
+250112005,42.60556,-72.59666,"Greenfield High School, 21, Barr Avenue, Greenfield, Franklin County, Massachusetts, 01301, United States",Massachusetts,82.58,129,0.8970840480274442
+250154002,42.29806000000001,-72.33417,"Quabbin Tower, Observation Tower Trail, Ware, Hampshire County, Massachusetts, United States",Massachusetts,304.26,93,0.8926243567753002
+250250042,42.329170000000005,-71.08222,"13, Zeigler Street, Nubian Square, Roxbury, Boston, Suffolk County, Massachusetts, 02119, United States",Massachusetts,7.21,3,0.9012006861063465
+250250044,42.325,-71.05583,"50, Von Hillern Street, Uphams Corner, Dorchester, Boston, Suffolk County, Massachusetts, 02127, United States",Massachusetts,3.4,1,0.9015437392795883
+270031002,45.142500000000005,-93.21389,"Anoka County-Blaine Airport, 93rd Lane, Blaine, Anoka County, Minnesota, 55449, United States",Minnesota,275.08,1155,0.9200686106346484
+270072304,47.878060000000005,-95.02917,"Red Lake Hospital, 24760, Hospital Road, Red Lake / Ogaakaaning, Beltrami County, Minnesota, 56671, United States",Minnesota,368.79,1017,0.9190394511149228
+270353204,46.39417,-94.14306,"Airport Road, Lazy Acre's Trailer Court, Crow Wing County, Minnesota, 56401, United States",Minnesota,372.11,1118,0.9224699828473414
+270370470,44.73806,-93.23695,"Westview Elementary, 225, Garden View Drive, Apple Valley, Dakota County, Minnesota, 55124, United States",Minnesota,296.75,1186,0.9231560891938251
+270370480,44.70611,-93.28555,"16855, Blue Star Memorial Highway/34th Infantry (Red Bull) Division Highway, Lakeville, Dakota County, Minnesota, 55044, United States",Minnesota,309.46,1191,0.918696397941681
+270530962,44.96528000000001,-93.255,"1420, East 18th Street, Phillips, Minneapolis, Hennepin County, Minnesota, 55404, United States",Minnesota,258.44,1170,0.9097770154373928
+270530963,44.95333,-93.25806,"Hans Christian Andersen School, 1098, Andersen Lane, Midtown Phillips, Minneapolis, Hennepin County, Minnesota, 55407, United States",Minnesota,261.19,1172,0.9210977701543739
+270750005,47.94639,-91.49528,"Lake County, Minnesota, United States",Minnesota,521.26,853,0.9159519725557461
+270834210,44.45694,-95.835,"West Channel Road, Marshall, Lyon County, Minnesota, 56258, United States",Minnesota,360.07,1361,0.913893653516295
+271095008,43.99444,-92.44945,"903, 18th Street Southeast, Meadow Park, Rochester, Olmsted County, Minnesota, 55904, United States",Minnesota,313.34,1199,0.9190394511149228
+271230871,44.95917,-93.03555,"Harding High School, 1540, East 6th Street, Eastview, Southeast, Saint Paul, Ramsey County, Minnesota, 55106, United States",Minnesota,277.19,1158,0.9104631217838766
+271377001,47.52111000000001,-92.53917,"Roosevelt Elementary / Virginia High School, 411, South 5th Avenue West, Virginia, Saint Louis County, Minnesota, 55792, United States",Minnesota,437.75,944,0.9221269296740995
+271453052,45.55,-94.13306,"Talahi Community School, 1321, University Drive Southeast, St. Cloud, Sherburne County, Minnesota, 56304, United States",Minnesota,312.48,1179,0.9228130360205832
+271713201,45.21056,-93.66833,"148, Central Avenue West, St. Michael, Wright County, Minnesota, 55376, United States",Minnesota,288.84,1177,0.9152658662092624
+280330002,34.82056,-89.98778,"58, Vaiden Drive, Hernando, DeSoto County, Mississippi, 38632, United States",Mississippi,113.53,485,0.9204116638078902
+280350004,31.32278,-89.28722,"769, Thornton Drive, Hattiesburg, Forrest County, Mississippi, 39401, United States",Mississippi,48.85,104,0.9204116638078902
+280470008,30.390000000000004,-89.04945000000001,"48, Hancock Avenue, Mississippi City, Gulfport, Harrison County, Mississippi, 39507, United States",Mississippi,8.43,1,0.9200686106346484
+280490020,32.32889,-90.1825,"2409, North West Street, Fondren, Jackson, Hinds County, Mississippi, 39202, United States",Mississippi,101.48,215,0.9200686106346484
+280490021,32.34667,-90.22583,"Coleman Avenue, Jackson, Hinds County, Mississippi, 39213, United States",Mississippi,108.08,217,0.9125214408233276
+290210005,39.741670000000006,-94.85806,"2598, MO 759, St. Joseph, Buchanan County, Missouri, 64501, United States",Missouri,249.96,1085,0.9018867924528302
+290370003,38.759440000000005,-94.57972,"1850, East 203rd Street, Jaudon, Cass County, Missouri, 64012, United States",Missouri,325.89,974,0.9080617495711836
+290390001,37.70083,-94.03472,"2235, East 1370 Road, Cedar County, Missouri, 64744, United States",Missouri,295.83,854,0.8816466552315609
+290470005,39.30306,-94.37639,"16710, Northeast 116th Street, Country Hills, Chandler, Clay County, Missouri, 64060, United States",Missouri,278.91,1033,0.8933104631217839
+290770036,37.25583,-93.29945,"Hillcrest High School, West Windy Ridge Lane, Springfield, Greene County, Missouri, 65803, United States",Missouri,371.54,806,0.9032590051457976
+290950034,39.10444,-94.57027,"Taliaferro & Browne Inc., 1020, East 8th Street, Columbus Park, Kansas City, Jackson County, Missouri, 64106, United States",Missouri,291.65,1012,0.8953687821612349
+290950042,39.04778,-94.45028,"Harvard Circle, Kansas City, Jackson County, Missouri, 64052, United States",Missouri,292.72,1005,0.8967409948542024
+291893001,38.650000000000006,-90.35028,"I 170, Ladue, Saint Louis County, Missouri, 63117, United States",Missouri,158.01,899,0.9049742710120069
+295100007,38.5425,-90.26334,"Saint Louis City Engine House Number 34 Fire Station, 8227, South Broadway, Patch, Saint Louis, Missouri, 63111, United States",Missouri,140.2,885,0.904631217838765
+295100085,38.65639,-90.19833,"1509, Branch Street, Hyde Park, Saint Louis, Missouri, 63107, United States",Missouri,136.85,897,0.9032590051457976
+295100093,38.65639,-90.18972,"115, Branch Street, Near North Riverfront, Saint Louis, Missouri, 63147, United States",Missouri,128.42,897,0.9097770154373928
+295100094,38.63083,-90.28111,"I 64;US 40, Saint Louis, Missouri, 63139, United States",Missouri,158.51,895,0.8627787307032591
+300130001,47.49417,-111.30305,"301, 10th Avenue South, Great Falls, Cascade County, Montana, 59405, United States",Montana,1021.75,818,0.9204116638078902
+300270006,47.04833000000001,-109.45528,"East Aztec Drive, Lewistown, Fergus County, Montana, 59457, United States",Montana,1263.62,963,0.9060034305317324
+300290049,48.36361,-114.18916000000002,"Columbia Falls High School, 610, 13th Street West, Columbia Falls, Flathead County, Montana, 59912, United States",Montana,928.75,595,0.9166380789022298
+300310017,44.656940000000006,-111.08945,"West Entrance Road, Gallatin County, Montana, 59758, United States",Montana,2035.78,915,0.8610634648370498
+300490004,46.850280000000005,-111.98695,"Lewis and Clark County, Montana, United States",Montana,1192.48,777,0.9108061749571184
+300490026,46.65861,-112.01305,"Rossiter Elementary School, 1497, Sierra Road East, Helena Valley Northeast, Lewis and Clark County, Montana, 59602, United States",Montana,1134.26,779,0.9015437392795883
+300530018,48.38389,-115.54778,"Big Sky Lumber Supply, Minnesota Avenue, Libby, Lincoln County, Montana, United States",Montana,637.51,495,0.913893653516295
+300630024,46.842220000000005,-114.02028,"Washburn Street, Southgate Triangle, Missoula, Missoula County, Montana, 59801, United States",Montana,969.35,624,0.918696397941681
+300630037,47.01278000000001,-114.22417000000002,"Beckwith Street, Frenchtown, Missoula County, Montana, 59834, United States",Montana,931.28,606,0.918696397941681
+300630038,47.17556,-113.47611,"180, School Lane, Seeley Lake, Missoula County, Montana, 59868, United States",Montana,1237.05,659,0.9180102915951973
+300710010,48.3175,-107.86222,"Phillips County, Montana, 59538, United States",Montana,774.02,1065,0.9060034305317324
+300810007,46.24361,-114.15889,"347, Madison Street, Leisure Village, Hamilton, Ravalli County, Montana, 59840, United States",Montana,1088.71,629,0.9169811320754717
+300830002,47.86778,-104.67667000000002,"MT 201, Girard, Richland County, Montana, United States",Montana,714.34,1287,0.878902229845626
+300930005,46.00222,-112.50083,"2432, South Park Place, Silver Bow Park, Butte, Silver Bow County, Montana, 59701, United States",Montana,1679.3,760,0.899828473413379
+320030298,36.04861,-115.05278,"1551, Santiago Drive, Henderson, Clark County, Nevada, 89014, United States",Nevada,561.11,374,0.9080617495711836
+320030561,36.16389,-115.11389,"Sunrise Acres Elementary School, North 26th Street, Five Points, Las Vegas, Clark County, Nevada, 89104, United States",Nevada,561.52,380,0.9111492281303601
+320031019,35.785560000000004,-115.35694,"Jean, Clark County, Nevada, 89026, United States",Nevada,921.88,334,0.9101200686106347
+320031501,36.13944,-115.17555000000002,"Las Vegas Freeway, Las Vegas, Clark County, Nevada, 89102, United States",Nevada,637.78,374,0.9101200686106347
+320050007,38.8975,-119.73194,"818, Lyell Way, Gardnerville Ranchos, Douglas County, Nevada, 89460, United States",Nevada,1487.41,240,0.9063464837049743
+320310016,39.525000000000006,-119.8075,"321, State Street, Midtown, Reno, Washoe County, Nevada, 89501, United States",Nevada,1369.3,268,0.9056603773584906
+320311005,39.54083,-119.74667,"USPS, Prater Way, Sparks, Washoe County, Nevada, 89431, United States",Nevada,1344.03,273,0.9149228130360205
+320311007,39.621390000000005,-119.71861,"Aquene Court, Sparks, Washoe County, Nevada, 89441, United States",Nevada,1367.76,280,0.9166380789022298
+325100020,39.14472000000001,-119.76639000000002,"2472, Lewis Drive, Carson City, Nevada, 89701, United States",Nevada,1427.94,248,0.904631217838765
+330050007,42.93028,-72.27222,"Tom's, Water Street, Keene, Cheshire County, New Hampshire, 03431, United States",New Hampshire,144.52,115,0.9217838765008577
+330115001,42.86167,-71.87861000000001,"Miller State Park, Wapack Trail, Temple, Hillsborough County, New Hampshire, 03084, United States",New Hampshire,693.21,83,0.9197255574614065
+330150018,42.8625,-71.38000000000001,"Moose Hill School, Pond View Trail, Londonderry, Rockingham County, New Hampshire, 03053, United States",New Hampshire,106.03,42,0.9097770154373928
+340010006,39.46472,-74.44861,"Atmoshpere Monitoring Station, Lily Lake Drive, Smithville, Galloway Township, Atlantic County, New Jersey, 08220, United States",New Jersey,4.44,0,0.7715265866209262
+340070002,39.93444,-75.12527,"Macedonia AME Church, Spruce Street, Central Waterfront, Whitman Park, Camden, Camden County, New Jersey, 08103, United States",New Jersey,2.62,28,0.7471698113207548
+340110007,39.42222,-75.025,"Vineland, Cumberland County, New Jersey, 08331, United States",New Jersey,23.42,21,0.7437392795883362
+340130003,40.72083000000001,-74.19278,"77, Hillside Avenue, Newark, Essex County, New Jersey, 07108, United States",New Jersey,28.79,4,0.7780445969125215
+340190001,40.515,-74.80666000000001,"Old York Road, Voorhees Corner, Raritan Township, Hunterdon County, New Jersey, 08887, United States",New Jersey,46.75,44,0.8518010291595197
+340210005,40.283060000000006,-74.7425,"Rider University, Johnson Trolley Line Trail, Sturwood Hamlet, Lawrence Township, Mercer County, New Jersey, 08648, United States",New Jersey,30.56,45,0.7807890222984563
+340230011,40.461940000000006,-74.42917,"Hort Farm No. 3 - Greenhouse 6-A, Lakeside Drive, East Brunswick Township, Middlesex County, New Jersey, 08901, United States",New Jersey,20.36,13,0.8037735849056604
+340390004,40.64139,-74.20834,"I 278, Elizabeth, Union County, New Jersey, 07202, United States",New Jersey,5.34,2,0.8
+350010023,35.13528,-106.58444,"4770, San Mateo Lane Northeast, The Lakes Apartments, Albuquerque, Bernalillo County, New Mexico, 87109, United States",New Mexico,1588.9,749,0.9156089193825043
+350130016,32.003330000000005,-106.59917000000002,"Anthony Elementary School, Church Street, Anthony, NM, Doña Ana County, New Mexico, 88021, United States",New Mexico,1166.37,593,0.9036020583190394
+350490021,35.61972,-106.07944,"166, Aviation Drive, Santa Fe, Santa Fe County, New Mexico, 87507, United States",New Mexico,1928.06,816,0.9176672384219554
+350550005,36.38306,-105.58305,"206, Adobe Road, Taos, Taos County, New Mexico, 87571, United States",New Mexico,2122.07,902,0.9156089193825043
+370210034,35.60611,-82.58417,"Buncombe County Schools, Bingham Road, Asheville, Buncombe County, North Carolina, 28806, United States",North Carolina,659.27,381,0.9108061749571184
+370350004,35.72889,-81.36555000000001,"100, 15th Street Southwest, Hickory, Catawba County, North Carolina, 28602, United States",North Carolina,350.19,321,0.9008576329331046
+370670030,36.025830000000006,-80.34167000000001,"Fraternity Church Road, Muddy Creek, Forsyth County, North Carolina, 27127, United States",North Carolina,244.44,288,0.9180102915951973
+371830014,35.855830000000005,-78.57417000000001,"Primary Beginnings Child Care Center, 4001, Spring Forest Road, Mini City, Raleigh, Wake County, North Carolina, 27616, United States",North Carolina,103.22,148,0.9005145797598628
+380570004,47.29833000000001,-101.76667,"North Beulah Mine Wildlife Management Area, State Highway 200, Mercer County, North Dakota, 58523, United States",North Dakota,626.21,1231,0.911492281303602
+381050003,48.15278000000001,-103.63944,"1111, 10th Street West, Williston, Williams County, North Dakota, 58801, United States",North Dakota,583.61,1218,0.9132075471698113
+390030009,40.77083,-84.05389000000001,"Bath Local Schools, I 75, Slabtown, Bath Township, Allen County, Ohio, 45801, United States",Ohio,267.95,628,0.9166380789022298
+390230005,39.928610000000006,-83.80945000000001,"Station 1, 350, North Fountain Avenue, North Hill, Springfield, Clark County, Ohio, 45504, United States",Ohio,281.52,581,0.9193825042881647
+390350060,41.49194000000001,-81.67834,"East 14th Street, Gateway District, Cleveland, Cuyahoga County, Ohio, 44115, United States",Ohio,206.14,491,0.9073756432246998
+390610006,39.27861,-84.36611,"Grooms Road, Procter & Gamble Sharon Woods Innovation Center, Blue Ash, Sycamore Township, Hamilton County, Ohio, 45242, United States",Ohio,262.59,616,0.918696397941681
+390610040,39.12861,-84.50389000000001,"260, William Howard Taft Road, Corryville, Cincinnati, Hamilton County, Ohio, 45219, United States",Ohio,258.85,625,0.9176672384219554
+390810017,40.36639,-80.61555000000001,"621, Logan Street, North Street Historic District, Steubenville, Jefferson County, Ohio, 43952, United States",Ohio,220.03,347,0.9193825042881647
+390870012,38.50806,-82.65916,"Commerce Drive, Ironton, Lawrence County, Ohio, 45638, United States",Ohio,169.09,463,0.9190394511149228
+390950024,41.643890000000006,-83.54611000000001,"Toledo Core Supply, Inc., Tecumseh Street, Middle Grounds, Toledo, Lucas County, Ohio, 43602, United States",Ohio,179.05,631,0.8953687821612349
+390990014,41.09583000000001,-80.65833,"Head Start Preschool, Werner Street, Oak Hill, Youngstown, Mahoning County, Ohio, 44503, United States",Ohio,287.28,398,0.9197255574614065
+391510020,40.80056,-81.37278,"428, Piedmont Avenue Northeast, Upper Downtown Canton Historic District, Canton, Stark County, Ohio, 44702, United States",Ohio,317.48,426,0.9176672384219554
+391530017,41.06333,-81.46889,"East High School, Brittain Road, Brittain, Akron, Summit County, Ohio, 44305, United States",Ohio,314.12,449,0.907032590051458
+391550014,41.23167,-80.80111000000001,"580, Laird Avenue Southeast, Iddings Park, Warren, Trumbull County, Ohio, 44484, United States",Ohio,277.07,416,0.9197255574614065
+400190297,34.25667,-97.47417,"976, Airport Road, Healdton, Carter County, Oklahoma, 73438, United States",Oklahoma,289.64,555,0.9248713550600343
+400270049,35.32,-97.48805,"Southwest 19th Street, Moore, Cleveland County, Oklahoma, 73160, United States",Oklahoma,371.92,664,0.9245283018867925
+400310651,34.632780000000004,-98.42861,"Saint Barbara School, Northwest 25th Street, Lawton, Comanche County, Oklahoma, 73507, United States",Oklahoma,358.42,633,0.9245283018867925
+400430860,36.15889,-98.93528,"County Road, Seiling, Dewey County, Oklahoma, 73663, United States",Oklahoma,532.95,804,0.9245283018867925
+400710604,36.696940000000005,-97.08111,"735, South 3rd Street, Ponca City, Kay County, Oklahoma, 74601, United States",Oklahoma,305.53,796,0.9241852487135506
+401210415,34.90583,-95.79389,"Broom Road, Pittsburg County, Oklahoma, United States",Oklahoma,270.49,574,0.9234991423670669
+401430174,35.9525,-96.00305,"Warrior Road, Glenpool, Tulsa County, Oklahoma, 74033, United States",Oklahoma,216.49,690,0.9248713550600343
+410010004,44.78806,-117.84444,"3122, G Street, Baker City, Baker County, Oregon, 97814, United States",Oregon,1043.1,449,0.9180102915951973
+410030013,44.588330000000006,-123.26722,"Fire Station #3, 1310, Northwest Circle Boulevard, Corvallis, Benton County, Oregon, 97330, United States",Oregon,71.06,59,0.9245283018867925
+410050004,45.259170000000005,-122.58806,"South Spangler Road, Clackamas County, Oregon, 97042, United States",Oregon,172.33,104,0.9238421955403088
+410090004,45.768330000000006,-122.77194,"Reeder Road, Columbia County, Oregon, United States",Oregon,6.26,72,0.9214408233276158
+410130100,44.29972,-120.84472,"Davidson Field, Southeast Court Street, Prineville, Crook County, Oregon, 97754, United States",Oregon,874.05,255,0.9214408233276158
+410170004,44.29194,-121.55527,"McKenzie Highway, Sisters, Deschutes County, Oregon, 97759, United States",Oregon,973.49,198,0.9228130360205832
+410190002,43.22639,-123.36472,"Bureau of Land Management Roseburg District Office, Northwest Garden Valley Boulevard, Roseburg, Douglas County, Oregon, 97471, United States",Oregon,144.47,69,0.9231560891938251
+410250003,43.58917,-119.04806,"578, East Washington Street, Burns, Harney County, Oregon, 97720, United States",Oregon,1266.78,410,0.9166380789022298
+410290019,42.62306,-122.81000000000002,"Ponderosa Street, Shady Cove, Jackson County, Oregon, 97539, United States",Oregon,432.15,130,0.9228130360205832
+410290203,42.19389,-122.70834,"Ashland Railroad Addition Historic District, Enders Alley, Ashland, Jackson County, Oregon, 97520, United States",Oregon,595.75,126,0.9231560891938251
+410310007,44.63056,-121.13139,"Westside Elementary School, 4th Street, Madras, Jefferson County, Oregon, 97741, United States",Oregon,688.65,228,0.9238421955403088
+410330036,42.16167,-123.64833000000002,"Wild Rivers Ranger Station, Redwood Highway, Cave Junction, Josephine County, Oregon, 97523, United States",Oregon,409.58,50,0.9234991423670669
+410330114,42.433890000000005,-123.34834,"Parkside Elementary, Southwest Wagner Meadows Drive, Grants Pass, Josephine County, Oregon, 97527, United States",Oregon,277.23,86,0.9183533447684391
+410350004,42.19028,-121.73111000000002,"Peterson Elementary School, Clinton Avenue, Altamont, Klamath County, Oregon, 97603, United States",Oregon,1252.76,207,0.9214408233276158
+410370001,42.18917,-120.35389,"1267, Center Street, Lakeview, Lake County, Oregon, 97630, United States",Oregon,1448.46,318,0.9204116638078902
+410390059,44.067220000000006,-123.14111,"Advance Auto Parts, Highway 99 North, Bethel, Eugene, Lane County, Oregon, 97402, United States",Oregon,122.69,79,0.9248713550600343
+410390060,44.02611,-123.08361,"Amazon Dog Park, Amazon Path, Woodfield Microhood, College Hill, Eugene, Lane County, Oregon, 97405, United States",Oregon,133.54,84,0.9224699828473414
+410391009,44.046670000000006,-123.0175,"E770 Springfield Library, 600, A Street, Springfield, Lane County, Oregon, 97477, United States",Oregon,140.45,89,0.9245283018867925
+410392013,43.74417,-122.48028,"76398, Christel Lane, Willamette City, Oakridge, Lane County, Oregon, 97463, United States",Oregon,347.06,136,0.9238421955403088
+410399004,43.79944,-123.05334,"Cottage Grove Public Works, 425, North 14th Street, Cottage Grove, Lane County, Oregon, 97424, United States",Oregon,196.16,90,0.9238421955403088
+410430009,44.61556,-123.09139,"Calapooia Middle School, 830, 24th Avenue Southeast, Albany, Linn County, Oregon, 97322, United States",Oregon,70.46,73,0.9234991423670669
+410432002,44.39556,-122.73028,"1001, Kalmia Street, Sweet Home, Linn County, Oregon, 97386, United States",Oregon,163.99,104,0.9221269296740995
+410470041,44.94306,-123.00584,"912, 23rd Street Northeast, Salem, Marion County, Oregon, 97301, United States",Oregon,61.11,80,0.9228130360205832
+410610123,45.323330000000006,-118.07777000000002,"1299, North Hall Street, La Grande, Union County, Oregon, 97850, United States",Oregon,842.31,398,0.9193825042881647
+410630001,45.42611,-117.29583,"Eagle Cap Ranger Station, Highland Avenue, Enterprise, Wallowa County, Oregon, 97828, United States",Oregon,1166.79,442,0.9176672384219554
+410650007,45.60222,-121.20333,"Saint Marys Academy, Cherry Heights Road, The Dalles, Wasco County, Oregon, 95058, United States",Oregon,56.85,187,0.8977701543739279
+410670004,45.52833,-122.97222,"Hare Field, Northeast Delsey Road, Downtown Hillsboro, Hillsboro, Washington County, Oregon, 97124, United States",Oregon,55.38,70,0.9241852487135506
+410670111,45.470000000000006,-122.81583,"Highland Park Middle School, 7000, Southwest Wilson Avenue, Highland, Beaverton, Washington County, Oregon, 97008, United States",Oregon,78.12,82,0.9210977701543739
+420010001,39.92306000000001,-77.30805000000001,"Winding Road, Bridgeport, Adams County, Pennsylvania, 17307, United States",Pennsylvania,266.86,92,0.9173241852487135
+420030008,40.46556,-79.96083,"290, 39th Street, Lower Lawrenceville, Pittsburgh, Allegheny County, Pennsylvania, 15201, United States",Pennsylvania,255.66,308,0.9193825042881647
+420050001,40.81417,-79.56500000000001,"315, Glade Drive, East Franklin Township, Armstrong County, Pennsylvania, 16201, United States",Pennsylvania,349.1,303,0.9197255574614065
+420150011,41.705000000000005,-76.5125,"Monroe Franklin Elementary School (closed), PA 414, Franklindale, Bradford County, Pennsylvania, 18832, United States",Pennsylvania,251.28,227,0.9145797598627787
+420270100,40.81139,-77.87666,"Air Quality Learning and Demonstration Center, Air Quality Lane, University Park, Ferguson Township, Centre County, Pennsylvania, 16802, United States",Pennsylvania,347.46,201,0.9121783876500857
+420450002,39.83556,-75.3725,"13, Norris Street, South Chester, Chester, Delaware County, Pennsylvania, 19013, United States",Pennsylvania,2.53,6,0.9135506003430531
+420710007,40.046670000000006,-76.28306,"1193, Grofftown Road, Lancaster, Lancaster County, Pennsylvania, 17602, United States",Pennsylvania,98.54,56,0.9210977701543739
+420710012,40.043890000000005,-76.11250000000001,"3537, West Newport Road, Intercourse, Lancaster County, Pennsylvania, 17572, United States",Pennsylvania,115.66,51,0.9238421955403088
+420770004,40.61167,-75.4325,"South Maxwell Street, Dutch Hill, Allentown, Lehigh County, Pennsylvania, 18109, United States",Pennsylvania,163.61,89,0.9149228130360205
+420850100,41.215,-80.48500000000001,"Sharon New Castle Road, Farrell, Mercer County, Pennsylvania, 16121, United States",Pennsylvania,333.63,393,0.9231560891938251
+420910013,40.11194,-75.30917000000001,"Belvoir Road, Black Horse, Plymouth Township, Montgomery County, Pennsylvania, 19462, United States",Pennsylvania,52.01,35,0.9125214408233276
+421250005,40.14667,-79.90305000000001,"11th Street, Charleroi, Washington County, Pennsylvania, 15022, United States",Pennsylvania,234.8,282,0.9090909090909091
+421255001,40.44444,-80.42,"Miller Airport Road, Hanover Township, Washington County, Pennsylvania, 15021, United States",Pennsylvania,347.63,337,0.8912521440823328
+440030002,41.615,-71.71944,"Parker Lane, West Greenwich, Kent County, Rhode Island, United States",Rhode Island,65.2,22,0.8946826758147512
+440070030,41.829440000000005,-71.41722,"Veterans Memorial Auditorium, Park Street, Downtown, Providence, Providence County, Rhode Island, 02902, United States",Rhode Island,13.45,2,0.9090909090909091
+450370001,33.73944,-81.85333,"37, Pine House Road, Trenton, Edgefield County, South Carolina, 29847, United States",South Carolina,189.53,167,0.8761578044596913
+450410003,34.21417,-79.76722000000001,"North Pointe Drive, Williams Heights, Florence, Florence County, South Carolina, 29502, United States",South Carolina,43.39,99,0.8740994854202402
+450450015,34.84389,-82.41444000000001,"104, Perry Avenue, West End, Mountain View Homes, Greenville, Greenville County, South Carolina, 29601, United States",South Carolina,307.79,298,0.8737564322469983
+450830011,34.955560000000006,-81.92472000000001,"270, Northview Street, Spartanburg, Spartanburg County, South Carolina, 29302, United States",South Carolina,228.75,291,0.7986277873070327
+460110003,44.34833,-96.80722,"3634, Western Avenue, Brookings County, South Dakota, 57006, United States",South Dakota,504.42,1425,0.9005145797598628
+460330132,43.557500000000005,-103.48361,"Custer County, South Dakota, United States",South Dakota,1289.14,1523,0.9090909090909091
+460710001,43.74667,-101.94083,"120, Ben Reifel Road, Jackson County, South Dakota, 57750, United States",South Dakota,740.52,1599,0.9080617495711836
+460990008,43.54778,-96.70055,"South Dakota School for the Deaf, 1800, East 10th Street, Sioux Falls, Minnehaha County, South Dakota, 57103, United States",South Dakota,450.74,1481,0.886106346483705
+470090011,35.768060000000006,-83.94195,"John Sevier Elementary School, Sequoyah Avenue, Springfield, Maryville, Blount County, Tennessee, 37804, United States",Tennessee,324.87,462,0.8960548885077186
+470090101,35.63194,-83.94195,"Look Rock Trail, Look Rock, Blount County, Tennessee, 37878, United States",Tennessee,781.42,450,0.9135506003430531
+470370023,36.17667,-86.73833,"1788, Woodland Street, Nashville-Davidson, Davidson County, Tennessee, 37206, United States",Tennessee,153.87,610,0.881303602058319
+470654002,35.050560000000004,-85.29305000000001,"CSAS ball park, Siskin Drive, Chattanooga, Hamilton County, Tennessee, 37403, United States",Tennessee,216.05,500,0.9090909090909091
+471071002,35.45083,-84.59917,"1006, Railroad Avenue, Clem Jones Heights, Athens, McMinn County, Tennessee, 37303, United States",Tennessee,302.76,478,0.8895368782161235
+471192007,35.65167,-87.00945,"East Burt Drive, Columbia, Maury County, Tennessee, 38401, United States",Tennessee,215.33,548,0.904631217838765
+471410005,36.18556,-85.49194000000001,"1938, Denton Avenue, Park Village, Cookeville, Putnam County, Tennessee, 38501, United States",Tennessee,346.26,592,0.9169811320754717
+471450004,35.93833,-84.54389,"Central Elementary School, Clinton Street, Pine Hills, Harriman, Roane County, Tennessee, 37748, United States",Tennessee,240.02,512,0.9132075471698113
+480290059,29.27528,-98.31167,"14916, Laguna Road, Bexar County, Texas, 78223, United States",Texas,148.84,164,0.8953687821612349
+480290676,29.332780000000003,-98.55139,"CentroMed, 9011, Poteet Jourdanton Freeway, San Antonio, Bexar County, Texas, 78211, United States",Texas,197.68,184,0.9224699828473414
+480290677,29.423890000000004,-98.58028,"921, Enrique M Barrera Parkway, San Antonio, Bexar County, Texas, 78237, United States",Texas,218.24,193,0.916295025728988
+480610006,25.8925,-97.49333,"Brownsville Early College High School, 343, Ringgold Road, Brownsville, Cameron County, Texas, 78520, United States",Texas,9.55,25,0.909433962264151
+481390016,32.48194,-97.02666,"2762, Old Fort Worth Road, Prairie Ridge, Midlothian, Ellis County, Texas, 76065, United States",Texas,203.69,362,0.9228130360205832
+481410037,31.76806,-106.50083,"Rim Road, El Paso, El Paso County, Texas, 79968, United States",Texas,1174.28,580,0.9173241852487135
+481410057,31.667500000000004,-106.2875,"Old Hueco Tanks Road, Moon Addition Number 3 Colonia, Socorro, El Paso County, Texas, 79927, United States",Texas,1115.27,586,0.9204116638078902
+482010058,29.770560000000003,-95.03083,"Baytown Fire Department Station 5, Bayway Drive, Wooster, Baytown, Harris County, Texas, 77520, United States",Texas,7.02,7,0.9087478559176673
+482011034,29.76806,-95.22056,"Harris Elementary School, 1262, Mae Drive, Houston, Harris County, Texas, 77015, United States",Texas,6.74,22,0.9207547169811321
+482011035,29.73389,-95.2575,"205, Clinton Park Street, Clinton Park, Houston, Harris County, Texas, 77029, United States",Texas,9.91,25,0.9207547169811321
+482011039,29.67,-95.12833,"Deer Park, Harris County, Texas, 77536, United States",Texas,9.64,11,0.9221269296740995
+482150043,26.22611,-98.29083,"John H. Shary Elementary School, 2300, North Glasscock Road, Valley View Estates Colonia, Mission, Hidalgo County, Texas, 78574, United States",Texas,39.56,85,0.9111492281303601
+482450021,29.92167,-93.91389,"2125, Jefferson Drive, Port Arthur, Jefferson County, Texas, 77642, United States",Texas,2.62,1,0.907032590051458
+483091037,31.653060000000004,-97.07056,"Mazanec Road, Waco, McLennan County, Texas, 76640, United States",Texas,143.69,292,0.9036020583190394
+483611100,30.180000000000003,-93.87305,"Orange County, Texas, 77626, United States",Texas,6.35,20,0.9111492281303601
+484530014,30.354170000000003,-97.76,"Murchison Middle School, 3700, North Hills Drive, Northwest Hills, Austin, Travis County, Texas, 78731, United States",Texas,251.32,209,0.916295025728988
+484530021,30.263060000000003,-97.71306,"2509, Webberville Road, Grandview Place, Austin, Travis County, Texas, 78702, United States",Texas,144.46,198,0.9204116638078902
+484790313,27.59917,-99.53306,"Laredo, Webb County, Texas, 78045, United States",Texas,140.26,176,0.9149228130360205
+490050007,41.842780000000005,-111.85167,"Birch Creek School, West 200 North, Smithfield, Cache County, Utah, 84335, United States",Utah,1375.59,983,0.8970840480274442
+490110004,40.89778,-111.88528,"200 W @ 923 N, North 200 West, Bountiful, Davis County, Utah, 84014, United States",Utah,1314.92,946,0.9234991423670669
+490353006,40.73333,-111.87167,"670, 1700 South, Liberty-Wells, Salt Lake City, Salt Lake County, Utah, 84105, United States",Utah,1307.15,942,0.9228130360205832
+490353010,40.795280000000005,-111.93083,"Salt Lake Center for Science Education, 1400 W, Goodwin Avenue, Amos Addition, Rose Park, Salt Lake City, Salt Lake County, Utah, 84116, United States",Utah,1286.4,939,0.9149228130360205
+490494001,40.34139,-111.71333,"North Main Street, Lindon, Utah County, Utah, 84042, United States",Utah,1429.39,925,0.9221269296740995
+490530007,37.17889,-113.305,"155, North 870 West, Hurricane, Washington County, Utah, 84737, United States",Utah,990.97,572,0.9234991423670669
+500030004,42.8875,-73.24944,"Airport Road, Bennington, Bennington County, Vermont, 05257, United States",Vermont,241.13,178,0.9176672384219554
+500070014,44.47583,-73.21028000000001,"Shell, Main Street, Downtown, Burlington, Chittenden County, Vermont, 05401, United States",Vermont,59.64,248,0.904631217838765
+500210002,43.60833,-72.98222000000001,"Rutland Post Office, 173, West Street, Rutland City, Rutland County, Vermont, 05701, United States",Vermont,170.69,190,0.9217838765008577
+510590030,38.77167,-77.10889,"Chessie’s Trail, Groveton, Fairfax County, Virginia, 22036, United States",Virginia,50.41,15,0.9145797598627787
+510690010,39.28278,-78.08139000000001,"Rest, Frederick County, Virginia, 22624, United States",Virginia,190.12,100,0.9193825042881647
+510870014,37.55639,-77.4,"2401, Hartman Street, Central Gardens, Henrico County, Virginia, 23223, United States",Virginia,48.44,48,0.9234991423670669
+530030004,46.42556,-117.05972,"13th Street, Clarkston, Asotin County, Washington, 99403, United States",Washington,233.38,410,0.9252144082332762
+530050002,46.21806,-119.20139,"Tri-Cities Vocational Center, West John Day Avenue, Kennewick Industrial Park, Kennewick, Benton County, Washington, 99338, United States",Washington,157.16,270,0.9252144082332762
+530070007,47.838330000000006,-120.02306000000002,"US Forest Service/National Park Service/Chelan Ranger District, West Woodin Avenue, Chelan, Chelan County, Washington, 98816, United States",Washington,340.44,163,0.9087478559176673
+530070011,47.43056000000001,-120.34194,"1300, 5th Street, Wenatchee, Chelan County, Washington, 98801, United States",Washington,248.78,141,0.9248713550600343
+530090015,48.36583,-124.61,"Makah Marina, Bayview Avenue, Neah Bay, Clallam County, Washington, 98357, United States",Washington,3.37,0,0.9238421955403088
+530110022,45.863890000000005,-122.41084,"363, West Humphrey Street, Yacolt, Clark County, Washington, 98675, United States",Washington,211.7,89,0.9241852487135506
+530110024,45.643330000000006,-122.58722000000002,"2719, Northeast 84th Avenue, Burton Homes, Ogden, Vancouver, Clark County, Washington, 98662, United States",Washington,64.35,92,0.9221269296740995
+530130002,46.317780000000006,-117.985,"Columbia County Fire Department, 206, West Main Street, Dayton, Columbia County, Washington, 99328, United States",Washington,486.56,347,0.9248713550600343
+530150015,46.13917000000001,-122.96167,"Olympic Elementary School, Hemlock Street, Longview, Cowlitz County, Washington, 98632, United States",Washington,3.76,38,0.9190394511149228
+530210002,46.57528000000001,-119.00195,"Mesa Elementary School, Pepiot Road, Mesa, Franklin County, Washington, United States",Washington,226.88,265,0.9166380789022298
+530251002,47.130280000000006,-119.2725,"HAPO Credit Union, South Chestnut Street, Moses Lake, Grant County, Washington, 98837, United States",Washington,324.95,226,0.9248713550600343
+530310003,48.128890000000006,-122.77889,"Blue Heron Middle School, San Juan Avenue, Rosewind, Colinwood Farm, Port Townsend, Jefferson County, Washington, 98386, United States",Washington,8.28,-1,0.9252144082332762
+530330017,47.49,-121.7725,"Tinkham Avenue Northeast, North Bend, King County, Washington, 98045, United States",Washington,140.91,33,0.9248713550600343
+530330031,47.60083,-122.14833000000002,"Lake Hills Elementary School, 143rd Avenue Southeast, Robinswood, Bellevue, King County, Washington, 98007, United States",Washington,93.5,4,0.9248713550600343
+530330057,47.56194000000001,-122.34028,"4601, Diagonal Avenue South, Georgetown, Seattle, King County, Washington, 98134, United States",Washington,3.0,2,0.913893653516295
+530331011,47.53083,-122.32056,"South Elmgrove Street, South Park, Seattle, King County, Washington, 98108, United States",Washington,3.02,3,0.9224699828473414
+530332004,47.385830000000006,-122.23,"C Building, State Avenue North, Downtown, Kent, King County, Washington, 98032, United States",Washington,14.23,8,0.9200686106346484
+530370002,46.99333000000001,-120.54500000000002,"258, East 2nd Avenue, Ellensburg, Kittitas County, Washington, 98926, United States",Washington,466.93,139,0.9238421955403088
+530410004,46.66389,-122.96722,"350, North Market Boulevard, Chehalis, Lewis County, Washington, 98532, United States",Washington,68.38,42,0.9224699828473414
+530470010,48.476940000000006,-120.19055000000002,"Winthrop Library, Highway 20, Winthrop, Okanogan County, Washington, 98862, United States",Washington,536.73,157,0.918696397941681
+530470013,48.39972,-119.51889,"8th Avenue East, Omak, Okanogan County, Washington, 98841, United States",Washington,262.58,203,0.9183533447684391
+530530029,47.18639,-122.45167,"Birney Elementary School, South 76th Street, South End, Tacoma, Pierce County, Washington, 98408, United States",Washington,104.65,8,0.9173241852487135
+530530031,47.26556,-122.38556,"East Alexander Avenue, Tacoma, Pierce County, Washington, 98422, United States",Washington,4.74,2,0.9207547169811321
+530570015,48.41,-122.3375,"Northwest Clean Air Agency, 1600, South 2nd Street, Mount Vernon, Skagit County, Washington, 98273, United States",Washington,6.29,10,0.9217838765008577
+530610020,48.24667,-121.60306,"Darrington Elementary School, Emens Avenue, Darrington, Snohomish County, Washington, United States",Washington,175.62,51,0.9183533447684391
+530630021,47.67250000000001,-117.36472,"Spokane Regional Clean Air Agency, 3104, East Augusta Avenue, Chief Garry Park, Spokane, Spokane County, Washington, 99207, United States",Washington,585.68,363,0.9200686106346484
+530630047,47.69944,-117.42611,"1008, West Princeton Avenue, North Hill, Spokane, Spokane County, Washington, 99205, United States",Washington,623.12,357,0.9245283018867925
+530639995,47.808060000000005,-117.34306,"Colbert Elementary School, East Green Bluff Road, Spokane County, Washington, United States",Washington,578.35,363,0.9173241852487135
+530650002,47.885000000000005,-117.98833,"Bureau of Indian Affairs Highway 27, Wellpinit, Stevens County, Washington, 99040, United States",Washington,727.42,314,0.9200686106346484
+530650005,48.54444,-117.90305,"Colville Pediatric Dentistry, 266, East 1st Avenue, Colville, Stevens County, Washington, United States",Washington,495.04,323,0.9248713550600343
+530710005,46.05861,-118.35139,"1099, West Birch Street, Walla Walla, Walla Walla County, Washington, 99362, United States",Washington,278.14,336,0.9241852487135506
+530750003,46.72444,-117.18,"Franklin Elementary School, Southeast Dexter Street, Pullman, Whitman County, Washington, 99163, United States",Washington,768.47,391,0.9248713550600343
+530750006,47.23111,-117.36833,"Rosalia Schools, South Josephine Avenue, Rosalia, Whitman County, Washington, 99170, United States",Washington,687.02,366,0.9252144082332762
+530770005,46.32028,-119.99805,"Harrison Middle School, Harrison Avenue, Sunnyside, Yakima County, Washington, 98944, United States",Washington,226.47,212,0.9204116638078902
+550350014,44.761390000000006,-91.41278,"WisDOT Northwest Region Shop, US 53, Eau Claire, Town of Washington, Eau Claire County, Wisconsin, 54703, United States",Wisconsin,280.83,1080,0.913893653516295
+550430009,42.69194,-90.69611,"Potosi High School, Great River Road, Potosi, Town of Potosi, Grant County, Wisconsin, 53820, United States",Wisconsin,299.23,1220,0.9217838765008577
+550590019,42.50444,-87.81084000000001,"Al Krampert Trail, Carol Beach, Pleasant Prairie, Kenosha County, Wisconsin, 60096, United States",Wisconsin,178.82,990,0.9084048027444254
+550630012,43.77806,-91.225,"20th Street South, Herrington, La Crosse, La Crosse County, Wisconsin, 54601, United States",Wisconsin,203.99,1151,0.916295025728988
+550790010,43.01778,-87.93305000000001,"Iglesia La Luz del Mundo, 1316, South Cesar E Chavez Drive, Clarke Square, Milwaukee, Milwaukee County, Wisconsin, 53204, United States",Wisconsin,193.49,1022,0.9197255574614065
+550790026,43.06083,-87.91250000000001,"North First Street Historic District, East Meinecke Avenue, Harambee, Milwaukee, Milwaukee County, Wisconsin, 53212, United States",Wisconsin,207.35,1022,0.9231560891938251
+550870009,44.30667,-88.39555000000001,"4563, North Meade Street, Appleton, Outagamie County, Wisconsin, 54913, United States",Wisconsin,240.43,968,0.9135506003430531
+550890009,43.49806,-87.81,"Park Office, CTH D, Lake Church, Town of Belgium, Ozaukee County, Wisconsin, 53004, United States",Wisconsin,210.11,1019,0.9224699828473414
+551198001,45.20389,-90.6,"County Highway M, Perkinstown, Town of Grover, Taylor County, Wisconsin, 54451, United States",Wisconsin,458.07,1001,0.9224699828473414
+560130099,42.5275,-108.72028,"Atlantic City Road, Fremont County, Wyoming, United States",Wyoming,2523.15,1196,0.9231560891938251
+560210100,41.18194,-104.77834,"Cheyenne, Laramie County, Wyoming, 82009, United States",Wyoming,1860.38,1334,0.8452830188679246
